@@ -1,5 +1,5 @@
 # Breast Cancer Detection
-Breast Cancer Detection whether the cancer is Melignant or Banign Using Deep Neural Network. 
+Breast Cancer Detection whether the cancer is Malignant or Benign Using Deep Neural Network. 
 This project was created during Elite Techno groups Internship
 
 ## About
